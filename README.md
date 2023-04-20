@@ -16,6 +16,6 @@ Maximum Fun. The Adventure Zone transcripts. Retrieved November 10, 2022, from h
 
 NeoScum. The NeoScum Transcription Project. Retrieved November 10, 2022, from https://neoscum.com/transcriptions
 
-What I have done here is to organize and group together transcripts into a corpus, to ease the difficulties of studying each one individually, given the sheer number of words involved; such analysis can be done with, for instance, Python's Natural Language Toolkit (Bird et al. 2009, nltk.org). 
+What I have done here is to organize and group together transcripts into a corpus, to ease the difficulties of studying each one individually, given the sheer number of words involved; such analysis can be done with, for instance, Python's Natural Language Toolkit (Bird et al. 2009, [nltk.org](https://www.nltk.org/)). 
 
 This corpus can be used, with appropriate credit, to pursue future (ethical) linguistic work in the area of game studies.
