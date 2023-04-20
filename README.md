@@ -6,7 +6,7 @@ This is a corpus ("The TTRPG Corpus") intended for facilitating linguistic analy
 
 # Credit and sources
 
-I emphasize here that the text in this transcripts is not my original work (all credit goes to the shows' respective creators for the words themselves and to the original transcribers), and is drawn from the following publicly available sources:
+I emphasize here that the text in these transcripts is not my original work (all credit goes to the shows' respective creators for the words themselves and to the original transcribers), and is drawn from the following publicly available sources:
 
 Dimension 20 Wiki Contributors. Episode Transcripts. Retrieved November 10, 2022, from https://dimension20.fandom.com/wiki/Episode_Transcripts#Fantasy_High
 
